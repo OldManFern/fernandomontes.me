@@ -65,6 +65,7 @@
 	font-style:italic ;
 	font-family: "alexa-std",sans-serif;
 	font-weight: 400;
+	color:rgba(255,255,255,1.00)
 }
 .dates{
 	font-size:14px;
@@ -140,4 +141,70 @@
 	font-size:20px;
 	font-family: "alexa-std",sans-serif;
 	font-weight: 400;
+}
+.font-change-b{
+		font-style:italic ;
+	font-family: "alexa-std",sans-serif;
+	font-weight: 400;
+}
+.body-background{
+	background-image:url(night_highway.jpg)
+}
+.well-sm{
+	background-color:rgba(255,255,255,0.28)
+}
+.about-font-size{
+	font-size:16px
+}
+.white-font{
+	color:rgba(255,255,255,1.00)
+}
+.btn-tran{
+	background-color:transparent;
+	padding: 0;
+	border: none;
+}
+.black-well{
+	background-color:rgba(0,0,0,0.78)
+}
+.git-img{
+	background-image:url(git.png);
+	height:120px;
+	width:120px;
+	background-repeat:no-repeat;
+}
+.octocat{
+	background-image:url(Octocat.png);
+	height:32px;
+	width:32px;
+	background-repeat:no-repeat;
+}
+.java-img{
+	background-image:url(java_ee.png);
+	height:120px;
+	width:120px;
+	background-repeat:no-repeat;
+}
+.game-120-img{
+	background-image:url(game_screen_120.png);
+	height:120px;
+	width:120px;
+	background-repeat:no-repeat;
+}
+.joystick-img{
+	background-image:url(arcade_joystick.png);
+	height:120px;
+	width:120px;
+	background-repeat:no-repeat;
+}
+.well-tiny-tran{
+	background-color:rgba(255,255,255,0.2)
+}
+.ful-game-img{
+	height:7200px;
+	width:1200px;
+	background-repeat:no-repeat;
+}
+.modal-content{
+	background-color:transparent;
 }
